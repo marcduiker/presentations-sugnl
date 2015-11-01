@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'OleoScript Regular';
+   	src: url('OleoScript-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OleoScript Bold';
+   	src: url('OleoScript-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
